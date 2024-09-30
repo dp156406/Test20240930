@@ -9,14 +9,20 @@ console.log("Aufgabe 1")
 // Es soll das Volumen eines Würfels in Quadratzentimeter (cm3) ausgegeben werden. Arbeiten Sie mit einem Objekt und sprechenden Eigenschaften.
 // Geben Sie das Volumen in einem Antwortsatz auf der Konsole aus.
 
-
-
-
+console.log("länge1 = 10cm")
+console.log("länge2 = 15cm")
+console.log("länge3 = 20cm")
+console.log ("Volumen = länge1 + länge2 * länge3")
 // 1b 
 // Wenn das Volumen 1000 oder mehr Quadratzentimeter beträgt soll eine Meldung auf der Konsole ausgegeben werden, die besagt,
 // dass das Volumen 1000 oder mehr Quadratzentimeter beträgt.
 
-
+if (volumen) {
+    >1000
+    
+} then {
+das volumen beträgt mehr als 1000 Quadratzentimeter
+}
 
 
 
@@ -33,14 +39,24 @@ console.log("Aufgabe 2")
 // 2a)
 // Definieren Sie die class
 
+class deutsch {
+    2 ()  {
+        
+    }
+}
 
 
 // 2b)
 // Deklarieren, Instanziieren und Initialisieren Sie ein Objekt von der Zeignisklasse.
 
-
-
-
+console.log("deutsch = 2")
+console.log("mathe = 3")
+console.log("englisch = 4")
+console.log("musik = 4")
+console.log("informatik =2")
+console.log("sport = 1")
+console.log("BWl = 2")
+console.log("Biologie = 4")
 // 2c)
 // Geben Sie die Eigenschaftswerte Ihres Objekts auf der Konsole aus.
 
@@ -73,7 +89,7 @@ console.log("Aufgabe 3")
 // Rabatt = Listenpreis · Rabatt-Prozentsatz : 100 %
 // Netto-Rechnungsbetrag = Listenpreis – Rabatt
 // MwSt = Netto-Rechnungsbetrag · MwSt-Prozentsatz : 100 %
-// Brutto-Rechnungsbetrag = Netto-Rechnungsbetrag + MwSt
+// MwSt = Netto-Rechnungsbetrag · MwSt-Prozentsatz : 100 %
 // Skonto = Brutto-Rechnungsbetrag · Skonto-Prozentsatz : 100 %
 // Zahlungsbetrag = Brutto-Rechnungsbetrag – Skonto
 
@@ -86,19 +102,27 @@ console.log("Aufgabe 3")
 // 3a)
 // Deklarieren, Instanziieren Sie ein Objekt mit allen genannten Eigenschaften. 
 
-
-
+console.log("Rabatt = Listenpreis · Rabatt-Prozentsatz : 100 %")
+console.log("Netto-Rechnungsbetrag = Listenpreis – Rabatt")
+console.log("MwSt = Netto-Rechnungsbetrag · MwSt-Prozentsatz : 100 %")
+console.log("Skonto = Brutto-Rechnungsbetrag · Skonto-Prozentsatz : 100 %")
+console.log("Zahlungsbetrag = Brutto-Rechnungsbetrag – Skonto")
 
 // 3b
 // Initialisieren Sie Ihr Objekt mit den gegebenen Werten. 
 // Geben Sie die einen Anwortsatz auf der Konsole aus.
 
+if (zeitung) { then
+    7% MwSt
+}
 
 
 // 3c)
 // Berechnen Sie die MwSt in einer sprechenden Variablen. Geben Sie einen Anwortsatz auf der Konsole aus.
 
-
+if (MwSt7) { then (MwSt7)
+    
+} 
 
 
 
